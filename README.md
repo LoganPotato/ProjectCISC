@@ -59,6 +59,6 @@ pinned: false
 - https://huggingface.co/spaces/LoganPotato/NumberTargeter
   
 ## Author & Acknowledgment
-- Logan
+- Raam Logan
 - AI Disclaimer: ChatGPT was used to aid me in creating the application
 - Gradio
